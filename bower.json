@@ -1,0 +1,18 @@
+{
+  "name": "mkiScript",
+  "version": "0.1.1",
+  "description": "Tiny AJAX, DOM, animation, utility library",
+  "keywords": [
+    "animation",
+    "dom",
+    "ajax"
+  ],
+  "main": "mkiScript.js",
+  "homepage": "https://github.com/wtff0nzie/mkiScript",
+  "authors": [
+    "Dez Iddon"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT"
+}
